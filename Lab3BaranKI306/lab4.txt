@@ -1,0 +1,9 @@
+Body mass index: 26.296566837107374
+Roberto adds two numbers: 10,3
+Result: 13
+Roberto says: Hi!
+Roberto is running(0 sec)
+Roberto is running(1 sec)
+Roberto is running(2 sec)
+Roberto is running(3 sec)
+Roberto is running(4 sec)
