@@ -1,0 +1,9 @@
+Body mass index: 26.296566837107374
+Roberto adds two numbers: 10,3
+Result: 13
+Roberto says: Hi!
+Roberto tells Donald: 
+Roberto says: Hello!
+0
+90
+1.85
